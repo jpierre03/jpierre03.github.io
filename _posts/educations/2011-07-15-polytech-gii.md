@@ -10,7 +10,7 @@ city: Marseille
 categories: educations
 ---
 
-Diplôme d'ingénénieur en Génie Industriel et Informatique.
+Diplôme d'ingénieur en Génie Industriel et Informatique.
 
 Les activités de génie industriel, ou organisation scientifique du travail, sont orientées autour de :
 
