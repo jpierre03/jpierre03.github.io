@@ -15,7 +15,7 @@ Diplôme d'ingénieur en Génie Industriel et Informatique.
 Les activités de génie industriel, ou organisation scientifique du travail, sont orientées autour de :
 
 * la gestion de la chaine logistique
-* l'organisation et le gestion de la production
+* l'organisation et la gestion de la production
 * la gestion de projet
 
 L'informatique est orientée gestion et systèmes d'information :
