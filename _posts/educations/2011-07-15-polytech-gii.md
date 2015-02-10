@@ -3,7 +3,7 @@ layout: post
 title:  Ecole d'ingénieur en Génie Industriel et Informatique
 
 date:   2011-07-15 12:00:00
-entrydate : Septembre
+entrydate : Septembre 2008
 outdate: Juillet 2011
 school: Polytech'Marseille - GII
 city: Marseille
