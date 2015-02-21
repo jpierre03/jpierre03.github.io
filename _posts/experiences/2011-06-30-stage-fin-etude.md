@@ -26,11 +26,8 @@ Actions réalisées :
 Mots clefs :
 
 * systèmes temps réel : modélisation, communication
-* SOA - architecure orientée services
+* SOA - architecture orientée services
 * systèmes hybrides, temps discret
 * pilotage d'atelier
-* DEVS
-
-
-MES : Manufacturing Execution System
-DEVS : Discrete Event Specification System
+* MES : Manufacturing Execution System
+* DEVS : Discrete Event Specification System
