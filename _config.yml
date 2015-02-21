@@ -25,7 +25,8 @@ SEO_GOOGLE_SITE_VERIFICATION:
 
 ############################# Personnal Inforamtions ################################
 name   : Jean-Pierre PRUNARET #Your name
-summary: Ingénieur en Informatique et Génie Industriel # a simple sentence about you
+#summary: Ingénieur en Informatique et Génie Industriel # a simple sentence about you
+summary: SITE EN COURS DE CONSTRUCTION # a simple sentence about you
 quote  : "killing and kidnaping people is all my life. My father selected me because I was the best of a million of sons. I was made and educated to kill, kidnap and guard your body like nobody can do !" # a quote about you
 phone  : +33 06 80 90 79 23 # your phone number
 
@@ -81,7 +82,7 @@ skills:
  - sectionName: Typist skills
    elements:
     - name: Microsoft Office
-      values: ["Word","Excel","Powerpoint"]
+      values: ["Word","Excel","Powerpoint", "Access"]
     - name: Apple iWork
       values: ["Pages","Numbers"]
 
