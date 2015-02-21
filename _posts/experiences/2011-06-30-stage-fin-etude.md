@@ -17,8 +17,8 @@ Implémentation d'un modèle de pilotage distribué utilisant une analyse multic
 
 Actions réalisées :
 
-* représenter un système de production industrielle par un modèle a évènements discret (DEVS),
-* implémenter un simulateur DEVS respectant la mécanique de simulation.
+* représenter un système de production industrielle par un modèle a évènements discret,
+* implémenter un simulateur respectant la mécanique de simulation DEVS.
 * implémenter le modèle et l'intégrer dans un outil d'ordonnancement d'atelier de production utilisant différentes heuristiques de production (MRP, Kanban, PROSIS, ...)
 * adapter les indicateurs de performance (temps de production, durée d'attente,  performance globale, ...) au nouveau mode de fonctionnement du système
 
