@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Master 2 Recherche mention Sciences de l'Information et des Systèmes
-date:   2011-07-15 12:00:00
-entrydate : Septembre 1010
+date:   2011-07-16 12:00:00
+entrydate : Septembre 2010
 outdate: Juillet 2011
 school: Université Aix-Marseille, Laboratoire des Sciences de l'Information et des Systèmes
 city: Marseille
