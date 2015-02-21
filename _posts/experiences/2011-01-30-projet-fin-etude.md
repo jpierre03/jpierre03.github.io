@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Projet de fin d'études
-company: LSIS
+title:  Projet de fin d'études (en équipe)
+company: Polytech'Marseille - GII
 city: Marseille
 date:   2011-01-30 18:00:00
 entrydate : Septembre 2010
@@ -13,7 +13,7 @@ categories: experiences
 Projet équipe de 6 personnes.
 
 Mission :
-Étude et mise en place des outils et méthodes permettant la certification ISO 9001:2008 de l'Institut Carnot Star.
+Étude et mise en place des outils et méthodes permettant la certification ISO~9001:2008 de l'Institut Carnot Star.
 
 Actions réalisées :
 
