@@ -13,6 +13,7 @@ categories: experiences
 Stage de fin d'étude appliqué au Pilotage des Systèmes de Production - MES.
 
 Mission :
+
 Implémentation d'un modèle de pilotage distribué utilisant une analyse multicritère pour prendre des décisions en temps réel.
 
 Actions réalisées :
